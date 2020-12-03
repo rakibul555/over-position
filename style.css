@@ -1,0 +1,95 @@
+/*
+  Theme Name: Default :
+  Author: Rakibul Islam
+  Support: fl.rakibul@gmail.com
+  Description: This template is stack and coding style fully handly.
+  Version: 1.0.0
+*/
+
+/*----------------------------------------*/
+/*  1.  Theme default CSS
+/*----------------------------------------*/
+
+
+
+/*
+* font linking google font or others fonts
+*/
+
+html,body{
+  background-color: #2C2C2B;
+}
+
+#background-images{
+  background: url("https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1506&q=80");
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 80%;
+}
+
+div#page-wrapper {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+
+
+.over-landing {
+  position: absolute;
+  top: 5%;
+  left: 30%;
+  width: 40%;
+}
+.over-content {
+  background-color: #E61C25;
+  padding: 50px 0px 60px 0px;
+  border-radius: 15px;
+  color: #fff;
+}
+
+.over-content-article {
+  padding: 0px 75px;
+}
+
+.over-content-article.t-center h3 {
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 36px;
+  font-size: 22px;
+}
+
+.over-content-article.t-center p {
+  font-weight: 500;
+  font-family: arial;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
